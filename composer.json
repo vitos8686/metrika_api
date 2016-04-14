@@ -1,0 +1,11 @@
+{
+    "name": "alan/metrika_api",
+    "description": "Class for getting stat from Yandex Metrika API",
+    "authors": [
+        {
+            "name": "Alan",
+            "email": "alan.tishin@yandex.ru"
+        }
+    ],
+    "require": {}
+}
